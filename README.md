@@ -1,2 +1,2 @@
-# WaveLoop
+# LoopWave
 Digital Audio Workstation (DAW)
